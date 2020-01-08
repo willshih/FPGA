@@ -1,5 +1,4 @@
 #willchap  
-<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>
 # <font color="#dd0000">Final project--電子鎖</font><br />
 ## 使用工具  
 FPGA開發版:
