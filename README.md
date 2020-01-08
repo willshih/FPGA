@@ -10,7 +10,8 @@ FPGA開發版:
 >按鈕  
 
   
-筆電
+筆電  
+<font color=#A52A2A size=4 >Markdwon测试</font>
 ## 功能說明
 1.8bit switch 之功能為 輸入設定之密碼 以及 輸入猜測的密碼。  
 
