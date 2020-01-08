@@ -2,9 +2,12 @@
 # Final project--電子鎖
 ## 使用工具  
 FPGA開發版:
->8bit switch
+>8bit switch  
+
 >顯示燈號
->按鈕
+
+>按鈕  
+
   
 筆電
 ## 功能說明
